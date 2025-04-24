@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="wallpapers/2k/breeze.png" alt="...">
+  <img src="wallpapers/hd/breeze.png" alt="...">
 </p>
 
 # Arch Linux minimal wallpapers
 
 #### Check out the wallpapers [here](other/wallpapers.md)
 
-This repsitory contains a **collection of minimal Arch wallpapers**, all the themes are made by two colors and look like the above template.
+This repsitory contains a **collection of minimal Arch wallpapers**, all the themes are made by two colors and look like the above template. Sadly GitHub does not support files over fhd quality. In case you are searching for 2k, 4k or 8k do not doubt in contacting me.
 
 #### If you want to contribute to the repository, check [this file](other/contributing.md)
 
@@ -18,9 +18,6 @@ The themes have been created following the pallete of some famous color schemes,
 ### Index:
 - [hd (1080x720)](wallpapers/hd/)
 - [full hd (1920x1080)](wallpapers/full-hd)
-- [2k (2048xundefined)](wallpapers/2k)
-- [4k (4096xundefined)](wallpapers/4k)
-- [8k (7680x4320)](wallpapers/8k)
 
 --- 
 This repository was originally created to implement a small script I programmed for changing the theme of the my terminal, my window manager ([qtile](https://qtile.org)) and my wallpaper. You can check my dotfiles [here](https://github.com/pablocorbalann/dotfiles)
